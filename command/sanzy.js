@@ -524,12 +524,12 @@ imageMessage: message.imageMessage,
 hydratedContentText: txt,
 hydratedButtons: [{
 urlButton: {
-displayText: 'Res Api',
+displayText: 'Rest Api',
 url: 'https://api-alphabot.herokuapp.com/api'
 }
 }, {
 urlButton: {
-displayText: 'Youtube',
+displayText: 'My Youtube',
 url: 'https://youtube.com/c/Dzofcyt/'
 }
 }, {
